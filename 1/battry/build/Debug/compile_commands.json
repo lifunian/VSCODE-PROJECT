@@ -1,0 +1,26 @@
+[
+{
+  "directory": "C:/Users/27933/Desktop/新建文件夹/battry/build/Debug",
+  "command": "C:\\Users\\27933\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32G0XX -IC:/Users/27933/Desktop/新建文件夹/battry/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m0plus -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\battry.dir\\Src\\syscall.c.obj -c C:\\Users\\27933\\Desktop\\新建文件夹\\battry\\Src\\syscall.c",
+  "file": "C:/Users/27933/Desktop/新建文件夹/battry/Src/syscall.c",
+  "output": "C:/Users/27933/Desktop/新建文件夹/battry/build/Debug/CMakeFiles/battry.dir/Src/syscall.c.obj"
+},
+{
+  "directory": "C:/Users/27933/Desktop/新建文件夹/battry/build/Debug",
+  "command": "C:\\Users\\27933\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32G0XX -IC:/Users/27933/Desktop/新建文件夹/battry/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m0plus -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\battry.dir\\Src\\sysmem.c.obj -c C:\\Users\\27933\\Desktop\\新建文件夹\\battry\\Src\\sysmem.c",
+  "file": "C:/Users/27933/Desktop/新建文件夹/battry/Src/sysmem.c",
+  "output": "C:/Users/27933/Desktop/新建文件夹/battry/build/Debug/CMakeFiles/battry.dir/Src/sysmem.c.obj"
+},
+{
+  "directory": "C:/Users/27933/Desktop/新建文件夹/battry/build/Debug",
+  "command": "C:\\Users\\27933\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32G0XX -IC:/Users/27933/Desktop/新建文件夹/battry/Inc -fdata-sections -ffunction-sections -Wl,--gc-sections -Wno-comment -mcpu=cortex-m0plus -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -o CMakeFiles\\battry.dir\\Src\\main.c.obj -c C:\\Users\\27933\\Desktop\\新建文件夹\\battry\\Src\\main.c",
+  "file": "C:/Users/27933/Desktop/新建文件夹/battry/Src/main.c",
+  "output": "C:/Users/27933/Desktop/新建文件夹/battry/build/Debug/CMakeFiles/battry.dir/Src/main.c.obj"
+},
+{
+  "directory": "C:/Users/27933/Desktop/新建文件夹/battry/build/Debug",
+  "command": "C:\\Users\\27933\\AppData\\Local\\stm32cube\\bundles\\gnu-tools-for-stm32\\14.3.1+st.2\\bin\\arm-none-eabi-gcc.exe -DDEBUG -DRTE_DEVICE_STARTUP_STM32G0XX -IC:/Users/27933/Desktop/新建文件夹/battry/Inc -mcpu=cortex-m0plus -mlittle-endian -mthumb -std=gnu11 -fstack-usage -Wall -Wextra -Wpedantic -Wno-unused-parameter -O0 -g3 -ggdb -x assembler-with-cpp -MMD -MP -o CMakeFiles\\battry.dir\\Src\\startup_stm32g031xx.S.obj -c C:\\Users\\27933\\Desktop\\新建文件夹\\battry\\Src\\startup_stm32g031xx.S",
+  "file": "C:/Users/27933/Desktop/新建文件夹/battry/Src/startup_stm32g031xx.S",
+  "output": "C:/Users/27933/Desktop/新建文件夹/battry/build/Debug/CMakeFiles/battry.dir/Src/startup_stm32g031xx.S.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/27933/Desktop/新建文件夹/battry/build/Debug/CMakeFiles/battry.dir
+C:/Users/27933/Desktop/新建文件夹/battry/build/Debug/CMakeFiles/edit_cache.dir
+C:/Users/27933/Desktop/新建文件夹/battry/build/Debug/CMakeFiles/rebuild_cache.dir
